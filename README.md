@@ -1,2 +1,2 @@
-# aula_api
-Aula sobre API 6° período engenharia de software.
+# api_aulas_6_periodo
+Exemplo para alunos do 6 Período curso engenharia de software.
